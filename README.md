@@ -10,7 +10,7 @@
 + 웹사이트 주소 (page_of_interest)
 + 게시글 목록이 있는 class 관련 정보 (list_prefix)
 + 알림음을 쓸 오디오 파일 (bell)
-+ 웹사이트에 (프로그램이) 접속하여 확인할 시간 간격 (wait)
++ 웹사이트에 (프로그램이) 접속하여 확인할 시간 간격 (wait)   
 지정 후, 모든 코드 실행.   
 
 ## Trick for Google Colab
